@@ -1,5 +1,5 @@
 # Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only
-An experiment of auto-aim mechanic for all FPS games using neural network and AI humanoid posture recognition. Experiment and discussion of anti-cheat only.
+An experiment of auto-aim mechanic for all FPS games using neural network and AI humanoid posture recognition. Experiment and discussion of anti-cheat only. Contact me if you want to discuss and experiment together.
 
 <b>First Note:</b>
 
