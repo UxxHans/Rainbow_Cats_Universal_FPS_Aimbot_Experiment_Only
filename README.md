@@ -13,7 +13,7 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 - I'm not responsible for any consequences cause by modifying or rewriting the code.
 
-- All Experiments are done with bots. It has never been used in official matches.
+- All Experiments are done with bots. It was never used in official matches.
 
 <b>Insights:</b>
 
