@@ -21,7 +21,7 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 - Different from traditional cheats which fetch the information from servers, this AI-based cheat does not use any of the internal game data.
 
-- Similar to how the players play the game, it just looks at the computer screen and clicks on the detected head position, which makes it almost impossible to be detected.
+- Similar to how the player plays the game, it just looks at the computer screen and clicks on the detected head position, which makes it almost impossible to be detected.
 
 - Currently, it seems that encrypting or hiding the mouse data could be one way to fight against this cheat.
 
