@@ -23,6 +23,8 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 - Similar to how the players play the game, it just looks at the computer screen and clicks on the detected head position, which makes it almost impossible to be detected.
 
+- Currently, I seems that encrypting or hiding the mouse data can be one way to fight against this cheat.
+
 <b>Results:</b>
 
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2001.gif)
