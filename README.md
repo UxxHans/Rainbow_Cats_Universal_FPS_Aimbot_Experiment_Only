@@ -9,7 +9,7 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 - Therefore, only part of the code was released. Main.py is made private. 
 
-- You will only see the basic functionalities such as mouse input, screen capture and AI posture estimation. 
+- You will only get the basic functionalities such as mouse input, screen capture and AI posture estimation. 
 
 - I'm not responsible for any consequences cause by modifying or rewriting the code.
 
