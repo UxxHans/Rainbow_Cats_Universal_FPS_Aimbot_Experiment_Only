@@ -1,2 +1,2 @@
-# Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only
-An experiment of auto aim mechanic for all FPS games using AI humanoid posture recognition.
+# Rainbow_Cats_Universal_FPS_Aimbot
+Aimbot experiment for all FPS games using AI and neural network. Private only.
