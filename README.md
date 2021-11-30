@@ -7,7 +7,7 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 - This is only an exploration of how AI could ruin modern FPS games and the methods to fight against it. 
 
-- Therefore, I only released part of the code. Main.py is made private. 
+- Therefore, only part of the code was released. Main.py is made private. 
 
 - You will only see the basic functionalities such as mouse input, screen capture and AI posture estimation. 
 
