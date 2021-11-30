@@ -16,7 +16,8 @@ First Note:
 - All Experiments are done with bots. It has never been used in official matches.
 
 
-<b>A few test results here:</b><br/>
+<b>A few test results here:</b>
+
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2001.gif)
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2000.gif)
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2002.gif)
