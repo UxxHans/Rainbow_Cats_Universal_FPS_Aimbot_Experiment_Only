@@ -6,6 +6,4 @@ I personally hate hackers in games and will seriously fight against all kinds of
 
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2001.gif)
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2002.gif)
-
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2003.gif)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Landmarks.jpg)
