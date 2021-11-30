@@ -29,7 +29,7 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 - The results are terrifying. The aimbot can handle all kinds of humanoid bodies in FPS games.
 
-- The accuracy is high. Although sometimes it will miss a few shots, but this is inevitably a concerning problem.
+- The accuracy is high. Although sometimes it will miss a few shots, but this is inevitably a concerning problem if the model is well-trained.
 
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2001.gif)
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only/blob/main/Introduction/Demostration%2000.gif)
