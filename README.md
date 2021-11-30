@@ -27,7 +27,7 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 <b>Results:</b>
 
-- The results are terrifying. The aimbot can handle all kinds of humanoid bodies in FPS games.
+- The results are terrifying. The aimbot can handle all kinds of humanoid bodies in FPS games such as CSGO, Back For Blood and Remnant: From The Ashes.
 
 - The accuracy is high. Although sometimes it will miss a few shots, but this is inevitably a concerning problem if the model is well-trained.
 
