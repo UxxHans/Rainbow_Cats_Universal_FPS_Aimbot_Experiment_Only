@@ -1,7 +1,7 @@
 # Rainbow_Cats_Universal_FPS_Aimbot_Experiment_Only
 An experiment of auto-aim mechanic for all FPS games using neural network and AI humanoid posture recognition. Experiment and discussion of anti-cheat only. Contact me if you want to discuss.
 
-<b>First Note:</b>
+<b>First Note: </b>
 
 - I personally hate hackers in games and will seriously fight against all kinds of cheats in games.
 
@@ -15,7 +15,7 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 - All Experiments are done with bots. It was never used in official matches.
 
-<b>Insights:</b>
+<b>Insights: </b>
 
 - As neural network and AI is evolving, the technology of face recognition becomes better over time, which also provides new methods to cheat in FPS games.
 
@@ -25,7 +25,7 @@ An experiment of auto-aim mechanic for all FPS games using neural network and AI
 
 - Currently, it seems that encrypting or hiding the mouse data could be one way to fight against this cheat.
 
-<b>Results:</b>
+<b>Results: </b>
 
 - The results are terrifying. The aimbot can handle all kinds of humanoid bodies in FPS games such as CSGO, Back For Blood and Remnant: From The Ashes.
 
